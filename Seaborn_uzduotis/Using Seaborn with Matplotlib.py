@@ -14,6 +14,6 @@ plt.title('Title using Matplotlib Function')
 plt.show()
 
 #output
-
+![Preview](https://github.com/kursas/Seaborn_Python/blob/main/Seaborn_uzduotis/seaborn_matplotlib.jpg)
 
 Process finished with exit code 0
